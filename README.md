@@ -3,6 +3,8 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=raviikmr.snakeandladderunity&left_color=green&right_color=red)
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)]()
 [![GitHub forks](https://img.shields.io/github/forks/raviikmr/SnakeAndLadderUnity.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/raviikmr/SnakeAndLadderUnity/network/)
+[![GitHub stars](https://img.shields.io/github/stars/raviikmr/SnakeAndLadderUnity.svg?style=social&label=Star&maxAge=2592000)](https://GitHub.com/raviikmr/SnakeAndLadderUnity/stargazers/)
+[![GitHub watchers](https://img.shields.io/github/watchers/raviikmr/SnakeAndLadderUnity.svg?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/raviikmr/SnakeAndLadderUnity/watchers/)
 
 
 The famous snake and ladder (chutes and ladder) game made using Unity Engine.
