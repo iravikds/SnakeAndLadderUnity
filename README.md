@@ -1,8 +1,8 @@
 # Snake And Ladder Unity
 > Short blurb about what your product does.
 
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+![visitors](https://visitor-badge.glitch.me/badge?page_id=raviikmr.snakeandladderunity&left_color=green&right_color=red)
+
 
 The famous snake and ladder (chutes and ladder) game made using Unity Engine.
 
