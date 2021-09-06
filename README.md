@@ -33,7 +33,7 @@ Unity 3D
 
 ## Meta
 
-Ravi – [@RaviiKmr](https://twitter.com/raviikmr) 
+[![Twitter Follow](https://img.shields.io/twitter/follow/bstevensondev.svg?style=social)](https://twitter.com/raviikmr)  
 
 Distributed under the XYZ license. See ``LICENSE`` for more information.
 
